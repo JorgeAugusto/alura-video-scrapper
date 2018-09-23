@@ -1,6 +1,8 @@
-downloads
-node-modules
-.zip
-.txt
-.lock
-downloads__
+downloads/
+node_modules/
+*.zip
+*.txt
+*.lock
+downloads__/
+package-lock.json
+.DS_Store
