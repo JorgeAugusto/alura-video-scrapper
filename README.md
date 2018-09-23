@@ -18,8 +18,8 @@ Baixe seus cursos e assista offline em dispositivos que não suportam a aplicaç
 
    E então instale os modulos necessários
 
-```$ npm install
-```
+`$ npm install
+`
 
 Para começar a baixar as aulas basta rodar o comando
 
@@ -35,6 +35,7 @@ Para começar a baixar as aulas basta rodar o comando
 2. Em seguida carregue o comando --mode=list e logo após o comando --course=arquivo.txt
 
 Exemplo:
+
 `$ node scrap.js --username=eu@email.com --pass="minhasenha" --mode=list --course=arquivo.txt`
 
 #####Utilizando --mode=single
@@ -42,13 +43,10 @@ Exemplo:
 2. Carregue o comando --mode=single course=https://cursos.alura.com.br/course/android-testes-automatizados-tdd
 
 Ficando no final:
+
 `$ node scrap.js --username=eu@email.com --pass="minhasenha" --mode=single --course=https://cursos.alura.com.br/course/android-testes-automatizados-tdd`
 
 ### Contribuições
 Se você gostou do projeto e quer contribuir com seu código ou com os desenvolvedores, envie um pull request ou um email para falecom@celsoinacio.com.br
 
-Desenvolvido com :heart: no vale tecnológico da Baixada Fluminense
-
-
-
-
+Desenvolvido com :heart: no vale tecnológico da Baixada Fluminense.
