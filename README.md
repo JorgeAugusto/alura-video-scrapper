@@ -43,7 +43,7 @@ Exemplo:
 
 #####Utilizando --mode=single
 1. Neste modo você baixa apenas um curso por execução, então pegue o link do curso. Exemplo: https://cursos.alura.com.br/course/android-testes-automatizados-tdd
-2. Carregue o comando --mode=single course=https://cursos.alura.com.br/course/android-testes-automatizados-tdd
+2. Carregue o comando --mode=single --course=https://cursos.alura.com.br/course/android-testes-automatizados-tdd
 
 Ficando no final:
 
