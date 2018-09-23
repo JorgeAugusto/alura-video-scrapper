@@ -8,6 +8,8 @@ Baixe seus cursos e assista offline em dispositivos que não suportam a aplicaç
 - Baixa apenas um curso
 - Baixa lista de cursos
 - Fila com cursos a baixar
+- Organiza aulas em pastas e atividades em arquivos por ordem cronológica
+- Evita que o sistema durma, caso esteja programado para isso, mantendo atividade do software.
 
 #### Instalando
 

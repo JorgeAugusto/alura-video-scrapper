@@ -143,6 +143,9 @@ async function scrap_atividades(){
 }
 
 async function scrap_video(){
+
+  stayAwake.prevent(function() {}); // prevent system sleep
+
   const browser = await puppeteer.launch(GLOBAL_CONFIG); //Without proxy
   //const browser = await puppeteer.launch({args:[ '--proxy-server=http://contwebprd17:82',], ignoreHTTPSErrors:true, headless: false});
   const page = await browser.newPage();
